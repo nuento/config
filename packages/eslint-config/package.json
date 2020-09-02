@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
+    "eslint-config-prettier": "^6.11.0",
     "eslint-config-react-app": "^5.2.1"
   },
   "peerDependencies": {
