@@ -1,8 +1,9 @@
 {
   "name": "@nuento/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "peerDependencies": {
     "prettier": ">= 2"
-  }
+  },
+  "gitHead": "999c9b4941711a150d9296c21005759fd2a8e088"
 }
